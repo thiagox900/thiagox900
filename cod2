@@ -1,0 +1,4 @@
+function startAnimation() {
+    var box = document.getElementById("animatedBox");
+    box.style.left = "calc(100% - 100px)";
+}
